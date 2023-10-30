@@ -1,0 +1,55 @@
+body{
+    background-color: grey;
+   
+}
+
+h1{
+    border-style: outset; 
+    background: red;
+    border-width: 10px;
+    border-color: black;
+    padding: 10px;
+}
+
+h2{
+    border: 5px solid;
+    width: 300px;
+    height: 600px;
+    padding: 10px;
+    background-color: yellow;
+}
+
+h3{
+    border: 5px solid;
+    width: 500px;
+    height: 600px;
+    padding: 10px;
+    background-color: blue;
+    position: absolute;
+    left: 410px;
+    top: 101px;
+}
+
+h4{
+    border: 5px solid;
+    width: 300px;
+    height: 600px;
+    padding: 10px;
+    background-color: green;
+    position: absolute;
+    right: 10px;
+    top: 101px;
+
+}
+
+
+
+p{
+    border-style: outset; 
+    border-width: 10px;
+    border-color: black;
+    padding: 10px;
+    background-color: blueviolet;
+    height: 70px;
+    
+}
